@@ -10,7 +10,7 @@ Written in HTML, Typescript, JavaScript, and React. Built in the Cursor code edi
 ### Locally on your machine:
 1. Clone the repository on your local machine.
 2. Enter terminal and install packages with: `npm i`
-3. Run the local development server: `npm dev`
+3. Run the local development server: `npm run dev`
 
 ### Live on the internet:
 1. Visit this URL: https://todo-app-dylanpmcadam.vercel.app/
