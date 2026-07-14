@@ -20,6 +20,7 @@ import "./index.css";
 import { motion } from "motion/react";
 import { Analytics } from "@vercel/analytics/react"
 
+
 function getInitialDarkMode() {
   const stored = localStorage.getItem("theme");
   if (stored === "dark") return true;
