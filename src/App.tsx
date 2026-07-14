@@ -18,7 +18,7 @@ import { AddTodo } from "./components/AddTodo";
 import { TodoItem } from "./components/TodoItem";
 import "./index.css";
 import { motion } from "motion/react";
-import { Analytics } from '@vercel/analytics/next';
+import { Analytics } from "@vercel/analytics/react"
 
 function getInitialDarkMode() {
   const stored = localStorage.getItem("theme");
