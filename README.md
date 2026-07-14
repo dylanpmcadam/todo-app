@@ -13,4 +13,4 @@ Written in HTML, Typescript, JavaScript, and React. Built in the Cursor code edi
 3. Run the local development server: `npm dev`
 
 ### Live on the internet:
-1. Visit this URL: https://your-project.vercel.app
+1. Visit this URL: https://todo-app-dylanpmcadam.vercel.app/
